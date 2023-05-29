@@ -52,7 +52,7 @@ nav {
 footer {
     background-color: #122a47;
     margin-top: auto;
-    height: 10rem;
+    height: 13rem;
     font-family: 'Noto Sans Arabic', sans-serif;
 }
 
@@ -201,4 +201,28 @@ button:hover {
 
 .endRegisteration {
     color: lightslategrey;
+}
+
+.aboutUs-title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.aboutUs-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    gap: 2rem;
+}
+
+.aboutUs-content {
+    font-family: 'Tajawal', sans-serif;
+    display: flex;
+    justify-content: center;
+    direction: rtl;
+    margin: 6rem;
+    
 }
